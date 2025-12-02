@@ -18,7 +18,7 @@
     "pino": "^7.0.5",
     "pm2": "^6.0.5",
     "express": "latest",
-    "moment-timezone": "^0.5.45",
+    "moment-timezone": "^0.6.0",
     "axios": "^1.2.5",
     "crypto-digest-sync": "^1.0.0",
     "crypto-js": "latest",
